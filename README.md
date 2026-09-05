@@ -1,16 +1,26 @@
-# Python Certificate
+# My Certificates
 
-This repository contains my official certificate of completion for the Python course offered by Kaggle.
-
-### Course Details
-* **Course Name:** Python
-* **Issuing Organization:** Kaggle
-* **Date Issued:** September 5, 2026
+This repository contains my official certificates of completion for technical and professional development courses.
 
 ---
 
-### Certificate Preview
+## 1. Jobberman Soft Skills Course
+Issued by **Jobberman Nigeria** in partnership with the **Mastercard Foundation**.
 
-![Python Certificate](Basola%20Oluwafisayomi%20-%20Python.png)
+![Jobberman Soft Skills Certificate](jobberman-soft-skills-certificate.png)
+
+* **Date Issued:** September 5, 2026
+* **Credential ID:** CERT-000000000226
+
+---
+
+## 2. Python Course
+Issued by **Kaggle**.
+
+![Kaggle Python Certificate](kaggle-python-certificate.png)
+
+* **Date Issued:** September 5, 2026
+* **Topic:** Introduction to Programming using Python 
+* 
 
 
