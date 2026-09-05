@@ -10,4 +10,4 @@ This repository contains my official certificate of completion for the Python co
 ---
 
 ### Certificate Preview
-![Python Certificate](Basola Oluwafisayomi - Python Certificate.png)
+![Python Certificate](Basola Oluwafisayomi - Python.png)
