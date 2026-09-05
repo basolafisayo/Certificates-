@@ -7,7 +7,6 @@ This repository contains my official certificates of completion for technical an
 ## 1. Jobberman Soft Skills Course
 Issued by **Jobberman Nigeria** in partnership with the **Mastercard Foundation**.
 
-![Jobberman Soft Skills Certificate](jobberman-soft-skills-certificate.png)
 
 * **Date Issued:** September 5, 2026
 * **Credential ID:** CERT-000000000226
@@ -17,7 +16,6 @@ Issued by **Jobberman Nigeria** in partnership with the **Mastercard Foundation*
 ## 2. Python Course
 Issued by **Kaggle**.
 
-![Kaggle Python Certificate](kaggle-python-certificate.png)
 
 * **Date Issued:** September 5, 2026
 * **Topic:** Introduction to Programming using Python 
