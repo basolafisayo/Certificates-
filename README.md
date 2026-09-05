@@ -11,5 +11,5 @@ This repository contains my official certificate of completion for the Python co
 
 ### Certificate Preview
 
-![Python Certificate](Basola%20Oluwafisayomi%20-%20Python.png)
+(Basola%20Oluwafisayomi%20-%20Python.png)
 
